@@ -122,7 +122,7 @@ Running the exploit with `python pwn.py "install autogui" "open xterm" "type ech
 ## _Notes_
 
 - `open xterm` was needed because my test Linux environment had a DE installed, on a remote server the commands will be executed directly on TTY so this step is not nesessary.
-- The skill branching had a [big change](https://mycroft.ai/blog/skill-branching-18-02/) and now some skills are not (yet) available (autogui is one of them) but this is not the real point. Mycroft has skills to interact with domotic houses and other services that can still be manipulated (the lack of imagination is the limit here). The vulnerability rediseds in the lack of authentication for the ws.
+- The skill branching had a [big change](https://mycroft.ai/blog/skill-branching-18-02/) and now some skills are not (yet) available (autogui is one of them) but this is not the real point. Mycroft has skills to interact with domotic houses and other services that can still be manipulated (the lack of imagination is the limit here). The vulnerability lies in the lack of authentication for the ws.
 
 ## Affected devices
 
@@ -141,5 +141,5 @@ Follow me on:
 - 08/03/2018 Vulnerability found
 - 09/03/2018 Vulnerability reported
 - 13/03/2018 The CTO answered that they are aware of this problem and are currently working on a patch
-- 06/06/2018 The CTO said that they have no problem with the realease of the vulnerability and will add a warning to remember the user to use a firewall `¯\_(ツ)_/¯`
+- 06/06/2018 The CTO said that they have no problem with the release of the vulnerability and will add a warning to remember the user to use a firewall `¯\_(ツ)_/¯`
 - 09/06/2018 Public disclosure
