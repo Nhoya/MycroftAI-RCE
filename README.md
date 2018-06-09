@@ -126,7 +126,7 @@ Running the exploit with `python pwn.py "install autogui" "open xterm" "type ech
 
 ## Affected devices
 
-All the devices running Mycroft <= ? with the websocket server exposed
+All the devices running Mycroft <= ? with the websocket server exposed (Mark-I has the websocket behind a firewall by default)
 
 ## Interested in my work?
 
