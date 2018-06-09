@@ -133,7 +133,7 @@ All the devices running Mycroft <= ? with the websocket server exposed
 Follow me on:
 
 - Twitter: `@0x7a657461`
-- Linkedin: [https://linkedin.com/u/0xzeta](https://linkedin.com/u/0xzeta)
+- Linkedin: [https://linkedin.com/in/0xzeta](https://linkedin.com/in/0xzeta)
 - GitHub: [https://github.com/Nhoya](https://github.com/Nhoya)
 
 ## Timeline
